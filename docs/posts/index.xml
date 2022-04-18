@@ -16,5 +16,14 @@
       <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://ikerismak.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ikerismak.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>title: &amp;ldquo;NUEVO POST DE PRUEBA&amp;rdquo; date: 2022-04-18 description: &amp;lsquo;Descripción de tu blog post&amp;rsquo; Aun no tengo algun contenido que quiera aportar pero esperenlo</description>
+    </item>
+    
   </channel>
 </rss>
