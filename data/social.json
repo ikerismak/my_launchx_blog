@@ -1,14 +1,20 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/ikerismak/",
       "image": "images/social/linkedin.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/ikerismak",
       "image": "images/social/github.svg"
+    }
+    
+      {
+      "name": "instagram",
+      "url": "https://www.instagram.com/ikertoscano/",
+      "image": "images/social/instagram.svg"
     }
   ]
 }
