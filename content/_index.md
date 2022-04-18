@@ -1,10 +1,9 @@
 ---
-title: Launch X Bitácora de viaje
+title: Iker Ismak personal blog.
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hello this is my personal blog , where i will share my kwnolage across muy path on web development
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.
+welocome and have a sit
 
-🚀
